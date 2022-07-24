@@ -1,0 +1,29 @@
+.main{
+    background-color:#f6eed5;
+    padding: 20px;
+    margin: 20px;
+    font-family:'Kanit', serif ;
+}
+h1{
+    margin: 20px;
+    color: #69251c;
+    font-family:'Mitr', serif ;
+    font-size: 40px;
+}
+p{
+    color: #69251c;
+    font-size: 20px;
+}
+ul{
+    color: #69251c;
+    font-size: 20px;
+}
+
+.ref{
+    background-color:#f6eed5;
+    margin: 20px;
+    padding: 10px;
+    font-family:'Kanit',serif;
+    font-size: 18px;
+    color: #69251c;
+}
